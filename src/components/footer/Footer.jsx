@@ -18,9 +18,9 @@ const Footer = () => {
       </ul>
 
       <div className='footer__socials'>
-        <a href='https://www.facebook.com/profile.php?id=100009054966576'><BsFacebook /></a>
-        <a href='https://www.instagram.com/imkubes1/'><BsInstagram /></a>
-        <a href='https://twitter.com/mike_kubes'><BsTwitter /></a>
+        <a href='https://www.facebook.com/profile.php?id=100009054966576' target='_blank'><BsFacebook /></a>
+        <a href='https://www.instagram.com/imkubes1/' target='_blank'><BsInstagram /></a>
+        <a href='https://twitter.com/mike_kubes' target='_blank'><BsTwitter /></a>
       </div>
 
       <div className='footer__copyright'>
